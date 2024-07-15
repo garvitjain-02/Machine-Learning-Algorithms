@@ -6,6 +6,7 @@ Welcome to the **Machine Learning Algorithms** repository! This project showcase
 
 - [Introduction](#introduction)
 - [Algorithms Implemented](#algorithms-implemented)
+- [Prerequisites](#Prerequisites)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -29,6 +30,11 @@ Here's a list of the machine learning algorithms you will find in this repositor
 - Naive Bayes 🧠
 - Neural Networks 🕸️
 
+## Prerequisites 🛠️
+- Python 3.x
+- Jupyter Notebook
+- Required libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
+
 ## Usage 🚀
 Each algorithm comes with its own script and a corresponding Jupyter notebook to demonstrate its usage. For example, to run the Linear Regression algorithm:
 - Open the Jupyter notebook:
@@ -41,4 +47,7 @@ Contributions are welcome! If you have any improvements or new algorithms to add
 
 ## Contact 📬
 If you have any questions or suggestions, feel free to reach out:
+
 Garvit Jain: garvitjain-02
+
+Happy Coding! 😊
