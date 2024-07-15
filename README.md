@@ -1,2 +1,2 @@
-# machine_learning_algos
-The collection of my practices for Machine Learning Algorithms
+## Machine-Learning-Algorithms
+The collection of implementation of All Machine Learning Algorithms
