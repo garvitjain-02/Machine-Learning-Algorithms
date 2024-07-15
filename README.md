@@ -1,6 +1,6 @@
 # Machine Learning Algorithms 🤖📊
 
-Welcome to the **Machine Learning Algorithms** repository! This project showcases various machine learning algorithms implemented from scratch. It is a comprehensive guide for anyone looking to understand the inner workings of different ML algorithms without relying on pre-built libraries.
+Welcome to the **Machine Learning Algorithms** repository! This project showcases various machine learning algorithms implemented from scratch. It is a comprehensive guide for anyone looking to understand the inner workings of different ML algorithms.
 
 ## Table of Contents
 
