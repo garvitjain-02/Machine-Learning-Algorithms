@@ -21,14 +21,16 @@ Here's a list of the machine learning algorithms you will find in this repositor
 
 - Linear Regression 📈
 - Logistic Regression 📉
-- Decision Trees 🌳
-- Random Forests 🌲🌲
 - Support Vector Machines (SVM) 🛡️
 - K-Nearest Neighbors (KNN) 👥
+<!--
+- Decision Trees 🌳
+- Random Forests 🌲🌲
 - K-Means Clustering 🔶
 - Principal Component Analysis (PCA) 🧮
 - Naive Bayes 🧠
 - Neural Networks 🕸️
+-->
 
 ## Prerequisites 🛠️
 - Python 3.x
