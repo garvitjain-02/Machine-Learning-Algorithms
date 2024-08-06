@@ -23,8 +23,8 @@ Here's a list of the machine learning algorithms you will find in this repositor
 - Logistic Regression 📉
 - Support Vector Machines (SVM) 🛡️
 - K-Nearest Neighbors (KNN) 👥
+- Decision Trees Classifier & Regressor🌳
 <!--
-- Decision Trees 🌳
 - Random Forests 🌲🌲
 - K-Means Clustering 🔶
 - Principal Component Analysis (PCA) 🧮
