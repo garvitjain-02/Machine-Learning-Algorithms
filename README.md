@@ -1,6 +1,6 @@
-# Machine Learning Algorithms 🤖📊
+# Machine Learning Algorithms 🤖
 
-Welcome to the **Machine Learning Algorithms** repository! This project showcases various machine learning algorithms implemented from scratch. It is a comprehensive guide for anyone looking to understand the inner workings of different ML algorithms.
+Welcome to the **Machine Learning Algorithms** repository! This project showcases various machine learning algorithms implemented from scratch. It is a comprehensive guide for anyone looking to understand the inner workings of different ML algorithms 📊
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ Here's a list of the machine learning algorithms you will find in this repositor
 ## Prerequisites 🛠️
 - Python 3.x
 - Jupyter Notebook
-- Required libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
+- Required libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 
 ## Usage 🚀
 Each algorithm comes with its own script and a corresponding Jupyter notebook to demonstrate its usage. For example, to run the Linear Regression algorithm:
