@@ -26,8 +26,8 @@ Here's a list of the machine learning algorithms you will find in this repositor
 - Decision Trees Classifier & Regressor🌳
 - Random Forests - Bagging Algorithm 🌲🌲
 - Adaboost - Boosting Algorithm 📚
-<!--
 - K-Means Clustering 🔶
+<!--
 - Principal Component Analysis (PCA) 🧮
 - Naive Bayes 🧠
 - Neural Networks 🕸️
